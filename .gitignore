@@ -44,8 +44,6 @@ volume/
 *.pid.lock
 *.swp
 .dockerignore
-docker-compose.yml
-Dockerfile
 
 # Terraform
 *.tfstate
