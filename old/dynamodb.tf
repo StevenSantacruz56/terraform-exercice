@@ -1,5 +1,5 @@
 resource "aws_dynamodb_table" "apps_storage" {
-  name           = "sss"
+  name           = "test_magnus"
   billing_mode   = "PROVISIONED"
   read_capacity  = 1
   write_capacity = 1

@@ -52,7 +52,7 @@ volume/
 crash.log
 override.tf
 override.tf.json
-terraform.tfvars
+old/terraform.tfvars
 terraform.tfvars.json
 *.tfvars
 *.tfvars.json
